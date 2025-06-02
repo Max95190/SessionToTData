@@ -1,2 +1,2 @@
 # SessionToTData
-Этот скрипт конвертирует .session файлы в TData. Все подробновсти находяться в SessionToTData.zip
+Этот скрипт конвертирует .session файлы в TData. Все подробновсти находятся в SessionToTData.zip
